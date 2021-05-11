@@ -1,0 +1,26 @@
+{
+  "name": "calculadora",
+  "version": "0.1.0",
+  "description": "Modulo de calculadora para realizar los calculos matematicos basicos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulinaQuintero/calculadora.git"
+  },
+  "keywords": [
+    "calculadora",
+    "matematicas",
+    "suma",
+    "resta",
+    "aritmetica"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulinaQuintero/calculadora/issues"
+  },
+  "homepage": "https://github.com/PaulinaQuintero/calculadora#readme"
+}
